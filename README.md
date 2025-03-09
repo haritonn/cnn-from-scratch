@@ -2,4 +2,8 @@
 
 This repo contains 2 variations of CNN that written via NumPy.
 
-## In development
+## TODO
+- [ ] Loss computing;
+- [ ] Backpropagation;
+- [ ] Classification for each picture;
+- [ ] (MAYBE) adam optimzier.
